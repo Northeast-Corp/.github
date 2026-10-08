@@ -53,16 +53,13 @@ Nossa atuação atual está concentrada em **software e produtos digitais**, com
 
 ## Projetos e site
 
-Estamos preparando o site institucional da Northeast Corp para reunir nosso portfólio, projetos e informações sobre as soluções. O endereço público será inserido aqui assim que estiver confirmado.
-
-<!-- TODO: substituir este bloco pelo link público do site institucional antes de publicar o perfil. -->
+Conheça o site institucional da Northeast Corp e confira nossos projetos, serviços e soluções digitais.
 
 <div align="center">
-  <strong>🌐 Site e portfólio da Northeast Corp</strong><br />
-  <sub>Link oficial a inserir após a publicação do site.</sub>
+  <a href="https://northeastcorp.netlify.app"><strong>🌐 Acesse o site da Northeast Corp</strong></a>
 </div>
 
-> Enquanto isso, confira os repositórios públicos fixados no perfil da organização.
+> Confira também os repositórios públicos fixados no perfil da organização.
 
 ## Equipe
 
